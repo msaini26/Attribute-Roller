@@ -1,3 +1,3 @@
 # Attribute-Roller
 
-## Example D&D Dice Roll Simulation created in section
+Example D&D Dice Roll Simulation created in section
